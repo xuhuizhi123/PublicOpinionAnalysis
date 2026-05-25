@@ -1,0 +1,8 @@
+requests
+pandas
+jieba
+snownlp
+scikit-learn
+matplotlib
+wordcloud
+numpy

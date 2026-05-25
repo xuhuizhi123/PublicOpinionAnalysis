@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Read(//c/Users/32854/.cursor/projects/e-vibecoding1/terminals/**)",
+      "Read(//c/Users/32854/.cursor/projects/e-vibecoding1/terminals//**)",
+      "Bash(pip --version)",
+      "Bash(pip install *)",
+      "Bash(git --version)",
+      "Bash(gh --version)"
+    ]
+  }
+}
